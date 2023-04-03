@@ -1,4 +1,4 @@
-# libft
+# 🔥🔍🏷️libft
 
 <p>
   <img src="Score_libft.png" alt="Score libft 125/100" align="left">
